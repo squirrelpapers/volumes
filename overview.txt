@@ -1,0 +1,40 @@
+2019,1,1
+========
+
+#1 Hic sunt dracones! The modern unknown data dragons
+Florian Thiery; Martina Trognitz; Ethan Gruber; David Wigg-Wolf
+https://doi.org/10.5281/zenodo.3345715
+
+#2 Archaeology 4.0: Archaeology in the Third Era of Computing
+Florian Thiery
+https://doi.org/10.5281/zenodo.2629595
+
+#3 Sphere 7 Data: LOUD and FAIR Data for the Research Community
+Florian Thiery
+https://doi.org/10.5281/zenodo.2643469
+
+#4 topi.link: the northern and southern ontology
+Florian Thiery
+https://doi.org/10.5281/zenodo.2635490
+
+2021,3,1
+========
+
+#1 Digitale Vernetzung von Sammlungsdaten
+Allard W. Mees; Florian Thiery; Bernhard Weisser
+https://doi.org/10.5281/zenodo.5810310
+
+#2 African Red Slip Ware digital (ARS3D) - The Portal
+Florian Thiery; Louise Rokohl
+https://doi.org/10.5281/zenodo.5646897
+
+#3 Linked Open African Red Slip Ware
+Florian Thiery; Louise Rokohl
+https://doi.org/10.5281/zenodo.5722941
+
+2022,4,1
+========
+
+#1 African Red Slip Ware - Additional Iconography Catalogue
+Florian Thiery
+https://doi.org/10.5281/zenodo.6386603
