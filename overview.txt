@@ -129,6 +129,8 @@ DOI TBD
 Wikidata
 ========
 
+https://www.wikidata.org/wiki/Wikidata:WikiProject_Periodicals#Periodical_properties
+
 Journal: Q89658875
 
 Volume 4: Q114568632
