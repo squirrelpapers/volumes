@@ -1,5 +1,5 @@
-2019,1,1
-========
+2019:(1)1
+=========
 
 #1 Hic sunt dracones! The modern unknown data dragons
 Florian Thiery; Martina Trognitz; Ethan Gruber; David Wigg-Wolf
@@ -17,8 +17,8 @@ https://doi.org/10.5281/zenodo.2643469
 Florian Thiery
 https://doi.org/10.5281/zenodo.2635490
 
-2021,3,1
-========
+2021:(3)1
+=========
 
 #1 Digitale Vernetzung von Sammlungsdaten
 Allard W. Mees; Florian Thiery; Bernhard Weisser
@@ -32,9 +32,31 @@ https://doi.org/10.5281/zenodo.5646897
 Florian Thiery; Louise Rokohl
 https://doi.org/10.5281/zenodo.5722941
 
-2022,4,1
-========
+2022:(4)1
+=========
 
 #1 African Red Slip Ware - Additional Iconography Catalogue
 Florian Thiery
 https://doi.org/10.5281/zenodo.6386603
+
+#2 How to handle vagueness and uncertainty in graph-based LOD knowledge modelling? Dealing with archaeological numismatic and ceramological real world data.
+F. Thiery; A.W. Mees; K. Tolle; D.G. Wolf
+https://doi.org/10.5281/zenodo.xyz
+
+2022:(4)2 => SI: Data & Software
+================================
+
+#1 Ceramic Typologies Ontology (CeraTyOnt) - Version v0.2
+F. Thiery; A.W. Mees
+https://doi.org/10.5281/zenodo.7143098
+
+#2 CeraTyOnt @ AMT - Version v1.0
+F. Thiery; A.W. Mees
+https://doi.org/10.5281/zenodo.7143094
+
+2022:(4)3 => SI: Conferences
+============================
+
+#1 How to navigate the coding archaeology world: An introduction to scientific co-creation using Git and Github
+C. Schmid; S.C. Schmidt; F. Thiery
+https://github.com/sslarch/caa2022_GitGitHub_workshop
