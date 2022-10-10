@@ -1,6 +1,6 @@
 # Squirrel Papers
 
-## Volumes and Issues
+## Volumes and (Special) Issues
 
 ### 2019
 
