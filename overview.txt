@@ -47,6 +47,8 @@ https://doi.org/10.5281/zenodo.xyz
 
 #4 Master-Thesis new
 
+#5 Thiery, F., Homburg, T., Klammt, A. & Schmidt, S. C. (2022). Software Review for the Software PointSamplingTool. Archäologische Informationen 44, Early View, published online 18 Nov 2022.
+
 2022:(4)2 => SI: Data & Software
 ================================
 
