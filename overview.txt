@@ -60,6 +60,10 @@ https://doi.org/10.5281/zenodo.7143098
 F. Thiery; A.W. Mees
 https://doi.org/10.5281/zenodo.7143094
 
+#3 Linked Pipe: Linked Open Samian Ware
+F. Thiery, T. Homburg, M. Trognitz
+https://doi.org/10.5281/zenodo.5779053
+
 2022:(4)3 => SI: Conferences
 ============================
 
