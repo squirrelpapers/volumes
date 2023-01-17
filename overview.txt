@@ -135,12 +135,26 @@ F. Thiery; A.W. Mees
 F. Thiery; L. Linde
 DOI TBD
 
+2023: Volume 5
+==============
+
+2023:(5)1
+================================
+
+TBD
+
 2023:(5)2 => SI: Data & Software
 ================================
 
 #1 Ogham Stone Maps: Squirrel Stones in Ireland
 F. Thiery
 10.5281/zenodo.7544117
+
+2023:(5)3 => SI: Conferences & Talks
+====================================
+
+TBD
+
 
 
 Wikidata
@@ -154,3 +168,8 @@ Volume 4: Q114568632
 Volume 4, Issue 1: Q114568638
 Volume 4, Issue 2: Q114568679
 Volume 4, Issue 3: Q114568721
+
+Volume 5: Q116234611
+V5, I1: Q116235591
+V5, I2: Q116234584
+V5, I3: Q116235599
