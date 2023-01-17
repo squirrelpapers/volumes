@@ -37,7 +37,8 @@ https://doi.org/10.5281/zenodo.5722941
 
 #1 African Red Slip Ware - Additional Iconography Catalogue
 Florian Thiery
-https://doi.org/10.5281/zenodo.6386603
+DOI: 10.5281/zenodo.6386603
+Wikidata: Q111370392
 
 #2 How to handle vagueness and uncertainty in graph-based LOD knowledge modelling? Dealing with archaeological numismatic and ceramological real world data.
 F. Thiery; A.W. Mees; K. Tolle; D.G. Wolf
@@ -148,7 +149,8 @@ TBD
 
 #1 Ogham Stone Maps: Squirrel Stones in Ireland
 F. Thiery
-10.5281/zenodo.7544117
+DOI: 10.5281/zenodo.7544117
+Wikidata: Q116235655
 
 2023:(5)3 => SI: Conferences & Talks
 ====================================
