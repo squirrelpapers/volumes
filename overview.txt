@@ -140,6 +140,7 @@ DOI TBD
 
 #1 Ogham Stone Maps: Squirrel Stones in Ireland
 F. Thiery
+10.5281/zenodo.7544117
 
 
 Wikidata
