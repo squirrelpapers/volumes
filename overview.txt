@@ -162,7 +162,15 @@ Wikidata
 
 https://www.wikidata.org/wiki/Wikidata:WikiProject_Periodicals#Periodical_properties
 
+How TO?
+
+P1433 (published in)
+-> https://www.wikidata.org/wiki/Q89658875 (Squirrel Papers)
+-> Volume, Issue
+  -> series ordinal (Number)
+
 Journal: Q89658875
+Entity: Q116235645
 
 Volume 4: Q114568632
 Volume 4, Issue 1: Q114568638
