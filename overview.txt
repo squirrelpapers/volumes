@@ -26,6 +26,11 @@ https://doi.org/10.5281/zenodo.2635490
 2020:(2)1
 =========
 
+#1 The SPARQL Unicorn: An introduction
+Thiery, F.; Schmidt S.C.; Homburg, T.; Trognitz, M.
+DOI: 10.5281/zenodo.3742185
+Wikidata: Q89659767
+
 2020:(2)2 => SI: Data & Software
 ================================
 
