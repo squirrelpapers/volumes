@@ -135,6 +135,12 @@ F. Thiery; A.W. Mees
 F. Thiery; L. Linde
 DOI TBD
 
+2023:(5)2 => SI: Data & Software
+================================
+
+#1 Ogham Stone Maps: Squirrel Stones in Ireland
+F. Thiery
+
 
 Wikidata
 ========
