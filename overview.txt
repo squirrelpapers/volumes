@@ -203,7 +203,9 @@ P1433 (published in)
   -> series ordinal (Number)
 
 Journal: Q89658875
-Entity: Q116235645
+SP Entity: Q116235645
+SP Issue: Q116235717
+SP Special Issue: Q116235719
 
 Volume 1: Q116235709
 
