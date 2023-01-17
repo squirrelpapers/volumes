@@ -26,3 +26,9 @@
 * Volume 4, Issue 1 - 2022
 * Volume 4, Issue 2 - 2022 (SI: Data & Software)
 * Volume 4, Issue 3 - 2022 (SI: Conferences)
+
+### 2023
+
+* Volume 5, Issue 1 - 2023
+* Volume 5, Issue 2 - 2023 (SI: Data & Software)
+* Volume 5, Issue 3 - 2023 (SI: Conferences & Talks)
