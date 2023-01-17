@@ -17,8 +17,23 @@ https://doi.org/10.5281/zenodo.2643469
 Florian Thiery
 https://doi.org/10.5281/zenodo.2635490
 
-2021:(3)1
+2019:(1)2 => SI: Conferences 2019
+=================================
+
+2019:(1)3 => SI: Conferences 2014-2018
+======================================
+
+2020:(2)1
 =========
+
+2020:(2)2 => SI: Data & Software
+================================
+
+2020:(2)3 => SI: Conferences
+============================
+
+2021:(3)1 => SI: NFDI & ARS3D
+=============================
 
 #1 Digitale Vernetzung von Sammlungsdaten
 Allard W. Mees; Florian Thiery; Bernhard Weisser
@@ -31,6 +46,15 @@ https://doi.org/10.5281/zenodo.5646897
 #3 Linked Open African Red Slip Ware
 Florian Thiery; Louise Rokohl
 https://doi.org/10.5281/zenodo.5722941
+
+2021:(3)2
+=========
+
+2021:(3)3 => SI: Data & Software
+================================
+
+2021:(3)4 => SI: Conferences
+============================
 
 2022:(4)1
 =========
@@ -48,7 +72,9 @@ https://doi.org/10.5281/zenodo.xyz
 
 #4 Master-Thesis new
 
-#5 Thiery, F., Homburg, T., Klammt, A. & Schmidt, S. C. (2022). Software Review for the Software PointSamplingTool. Archäologische Informationen 44, Early View, published online 18 Nov 2022.
+#5 Software Review for the Software PointSamplingTool (Archäologische Informationen 44, Early View, published online 18 Nov 2022)
+Thiery, F., Homburg, T., Klammt, A. & Schmidt, S.C. 
+DOI: 10.5281/zenodo.7337817
 
 2022:(4)2 => SI: Data & Software
 ================================
