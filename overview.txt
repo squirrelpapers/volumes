@@ -34,6 +34,18 @@ Wikidata: Q89659767
 2020:(2)2 => SI: Data & Software
 ================================
 
+#1 Linked Open Samian Ware (CeraTyOnt)
+F. Thiery; A.W. Mees; D. Gottwald
+https://doi.org/10.5281/zenodo.4305708
+
+#2 Linked Open Samian Ware [RGZM/samian-lod: 2020-12-04]
+F. Thiery; A.W. Mees; D. Gottwald
+https://doi.org/10.5281/zenodo.4305709
+
+#3 Linked Open Samian Ware [RGZM/samian-lod: 2020-12-10]
+F. Thiery; A.W. Mees; D. Gottwald
+https://doi.org/10.5281/zenodo.4314355
+
 2020:(2)3 => SI: Conferences
 ============================
 
