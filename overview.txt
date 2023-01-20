@@ -58,6 +58,14 @@ https://doi.org/10.5281/zenodo.5722941
 2021:(3)3 => SI: Data & Software
 ================================
 
+#1 Ceramic Typologies Ontology (CeraTyOnt)
+F. Thiery; A.W. Mees
+https://doi.org/10.5281/zenodo.5767082
+
+#2 Ceramic Typologies Ontology (CeraTyOnt) - Version v0.1
+F. Thiery; A.W. Mees
+https://doi.org/10.5281/zenodo.5767083
+
 2021:(3)4 => SI: Conferences
 ============================
 
